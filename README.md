@@ -1,3 +1,5 @@
 ## Hi there, my name is Herbert!
-I'm a student from Austria that is very passionate about programming. 
-I like to learn all kinds of languages, though my main are Go and C++ at the moment, especially focusing on Backend development. 
+
+Student from Austria and passionate programmer, interested in many different fields though mainly low level programming and networking with C++/Rust.
+Gone through many other phases that's why I also know how to code in languages such as GO or Luau.
+Check out my repos if you want to and have a great day :)
